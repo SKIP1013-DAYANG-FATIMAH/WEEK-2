@@ -1,11 +1,21 @@
-package myHello;
+package mylife;
 
-class HelloWorld {
+class lifeatcampus {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello! World");
-
+		System.out.println("at 6:00 a.m : Wake up,take a shower");
+		System.out.println("at 7:00 a.m : Eat breakfast");
+		System.out.println("at 8:30 a.m : Morning class");
+		System.out.println("at 11:00 a.m : Take a luncheon");
+		System.out.println("at 1:00 p.m : Pray Zuhr and take a nap");
+		System.out.println("at 2:00 p.m : More class to attend");
+		System.out.println("at 6:00 p.m : Another fresh shower to clean all the sins and tiredness of classes");
+		System.out.println("at 8:30 p.m : Went to the cafe to get some dinner. Tomyam Kedah is too sweet compared to Kelantan T_T");
+		System.out.println("at 9:30 p.m : Video call with family,cousins");
+		System.out.println("at 10:30 p.m : Gossiping with besties");
+		System.out.println("at 11:30 p.m : Went to the bed,scrolling TikTok");
+		System.out.println("at 12:30 a.m : Sleep and dreaming about senpai");
 	}
 
 }
